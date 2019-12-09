@@ -2,6 +2,6 @@
 
 echo "Getting izanami jar"
 
-wget --quiet 'https://dl.bintray.com/maif/binaries/izanami.jar/1.5.0/izanami.jar' -P ${APP_HOME}
+wget --quiet 'https://dl.bintray.com/maif/binaries/izanami.jar/1.5.4/izanami.jar' -P ${APP_HOME}
 
 
